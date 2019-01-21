@@ -34,11 +34,10 @@ using method POST
     1- http://urlshort/api/generate 
         Params:{url:travesldr.com}
             RETURN: URL SHORT
-        
     2- http://urlshort/api/topMostVisited
-        RETURN: LIST TOP 100 MOST VISITED
-         
-        ```
+        RETURN: LIST TOP 100 MOST VISITED 
+```
+
  ## Images 
  ![alt text](https://raw.githubusercontent.com/alexander0205/SHORT-URL-BACKEND/master/Capture2.PNG)
   ![alt text](https://raw.githubusercontent.com/alexander0205/SHORT-URL-BACKEND/master/Capture.PNG)
