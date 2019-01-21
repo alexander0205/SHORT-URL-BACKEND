@@ -39,6 +39,6 @@ using method POST
 ```
 
  ## Images 
- ![alt text](https://raw.githubusercontent.com/alexander0205/SHORT-URL-BACKEND/master/Capture2.PNG)
-  ![alt text](https://raw.githubusercontent.com/alexander0205/SHORT-URL-BACKEND/master/Capture.PNG)
+ ![URL SHORT LARAVEL](https://raw.githubusercontent.com/alexander0205/SHORT-URL-BACKEND/master/Capture2.PNG)
+  ![URL SHORT LARAVEL](https://raw.githubusercontent.com/alexander0205/SHORT-URL-BACKEND/master/Capture.PNG)
  
